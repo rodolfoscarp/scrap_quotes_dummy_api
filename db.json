@@ -1,3 +1,9 @@
 {
-  "quotes":["Café Tradicional", "Café Expresso", "Capuccino"]
+    "coffee": [
+     "Café Tradicional", "Café Expresso", "Capuccino"
+    ],
+    
+    "users": [
+      "Pedro", "Carol", "Matheus"
+    ]
 }
