@@ -1,9 +1,5 @@
 {
-    "coffee": [
-     "Café Tradicional", "Café Expresso", "Capuccino"
-    ],
-    
-    "users": [
-      "Pedro", "Carol", "Matheus"
+    "quotes": [
+     
     ]
 }
